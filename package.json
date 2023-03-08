@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "entrega-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/servidor.js",
+  "scripts": {
+    "start": "node .",
+    "test": "nodemon -e 'js,html'",
+    "start-dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NachoRodriguezz/RODRIGUEZ-Entrega3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NachoRodriguezz/RODRIGUEZ-Entrega3/issues"
+  },
+  "homepage": "https://github.com/NachoRodriguezz/RODRIGUEZ-Entrega3#readme",
+  "dependencies": {
+    "@types/node": "^18.14.6",
+    "express": "^4.18.2"
+  }
+}
